@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/disaster37/go-kibana-rest/v7/kbapi"
 	"github.com/go-resty/resty/v2"
+	"github.com/samuel-deal-tisseo/go-kibana-rest/v7/kbapi"
 )
 
 type AuthMethodEnum int
